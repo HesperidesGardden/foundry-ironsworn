@@ -125,6 +125,11 @@
       "name": "中文",
       "path": "lang/cn.json"
     }
+    {
+      "lang": "rus",
+      "name": "Русский",
+      "path": "lang/rus.json"
+    }
   ],
   "gridDistance": 5,
   "gridUnits": "ft",
